@@ -1,6 +1,6 @@
 # [Tianchi Competition "Forgeries and Forensics" Track 2](https://tianchi.aliyun.com/competition/entrance/531812/introduction)
 
-An official implementation code of Rank 3.
+An official implementation code of **Rank 3**.
 
 ## Table of Contents
 
@@ -12,8 +12,10 @@ An official implementation code of Rank 3.
 ## Background
 
 <p align='center'>  
-  <img src='https://github.com/HighwayWu/Tianchi-FFT2/blob/master/imgs/demo.png' width='1060'/>
-  Demo. The upper part shows the inputs (forged images) and the bottom part is the corresponding outputs (detection results).
+  <img src='https://github.com/HighwayWu/Tianchi-FFT2/blob/master/imgs/demo.png' width='800'/>
+</p>
+<p align='center'>  
+  <em>Demo. The upper part shows the inputs (forged images) and the bottom part is the corresponding outputs (detection results).</em>
 </p>
 
 In this competition, the competitors are required to proposed an algorithm for detect and locate the forged regions from an input image. The classic forensics algorithms are to locate the forged area by studying the anomalous clues in the image, e.g., JPEG compression artifacts and/or noise pattern. However, these cues are not robust enough, as almost all the input images undergo multiple complex post-processing, making the classic forensics unable to accurately detect and locate the forged regions. With the rapid development of deep learning (DL) in recent years, many DL-based models have been proposed for image forensics as their strong learning representation and generalization abilities.
