@@ -7,6 +7,7 @@ An official implementation code of **Rank 3**.
 - [Background](#background)
 - [Dependency](#dependency)
 - [Demo](#demo)
+- [Licence](#licence)
 
 
 ## Background
@@ -62,3 +63,9 @@ More explanation for "code/run.sh":
         "tta" is the Test Time Augmentation(1-8 means the fliping and/or rotation).
       
     For "python main.py test --func=2": the "func=2" means the ensemble operation.
+
+## Licence
+
+The program is made available for academic or non-commercial purposes only. For commercial use, please contact:
+
+	Email: yc07912@umac.mo
