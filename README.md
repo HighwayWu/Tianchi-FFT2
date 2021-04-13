@@ -46,7 +46,7 @@ sh code/run.sh
 ```
 Then the model will detect the images in the `../s2_data/data/test/` and save the results in the `../prediction_result/images/` directory.
 
-The pre-trained model weights are avaliable in [here](https://drive.google.com/file/d/1ork_zGlG-Ny5sOLPOYK7RIppZKwOCm40/view?usp=sharing). Please download them and put in the "../user_data/model_data/".
+The pre-trained model weights are avaliable in [here](https://drive.google.com/file/d/1ork_zGlG-Ny5sOLPOYK7RIppZKwOCm40/view?usp=sharing). Please download them and put in the `../user_data/model_data/`.
 
 More explanation for "code/run.sh":
 
