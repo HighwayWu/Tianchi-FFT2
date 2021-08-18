@@ -46,8 +46,6 @@ sh code/run.sh
 ```
 Then the model will detect the images in the `../s2_data/data/test/` and save the results in the `../prediction_result/images/` directory.
 
-The pre-trained model weights are avaliable in [here](https://drive.google.com/file/d/1ork_zGlG-Ny5sOLPOYK7RIppZKwOCm40/view?usp=sharing). Please download them and put in the `../user_data/model_data/`.
-
 More explanation for "code/run.sh":
 
     For "python main.py test --func=0": the "func=0" means the division of input images. The divided sub-images are save in "../s2_data/data/test_decompose_\*" (\* is the resolution of divided sub-images).
