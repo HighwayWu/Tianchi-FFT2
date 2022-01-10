@@ -5,6 +5,7 @@ An official implementation code of **Rank 3**.
 ## Table of Contents
 
 - [Background](#background)
+- [Dataset](#dataset)
 - [Dependency](#dependency)
 - [Demo](#demo)
 - [Licence](#licence)
@@ -29,7 +30,12 @@ Thereby, we proposed to use the U-Net [1] that utilizes Se-Resnext50 [2] as enco
 
 [3] Roy et. al., "Recalibrating fully convolutional networks with spatial and channel "squeeze and excitation" blocks." [Link.](https://arxiv.org/abs/1808.08127)
 
+## Dataset
+
+The official dataset can be downloaded from [Link](https://tianchi.aliyun.com/competition/entrance/531812/information) after registration, or from [Link](https://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/531812/season3_data.zip) directly.
+
 ## Dependency
+
 Please refer to the "requirements.txt" file.
 
 ## Demo
