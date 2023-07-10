@@ -50,7 +50,7 @@ To test the model:
 ```bash
 sh code/run.sh
 ```
-Then the model will detect the images in the `../s2_data/data/test/` and save the results in the `../prediction_result/images/` directory.
+Then the model will detect the images in the `../s2_data/data/test/` and save the results in the `../prediction_result/images/` directory. The pre-trained weights can be downloaded from [Google Drive](https://drive.google.com/file/d/1ork_zGlG-Ny5sOLPOYK7RIppZKwOCm40/view?usp=sharing).
 
 More explanation for "code/run.sh":
 
